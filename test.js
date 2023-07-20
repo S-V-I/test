@@ -1,2 +1,1 @@
-const test  "test";
-alert ("Привіт!")
+commit to dev 1
